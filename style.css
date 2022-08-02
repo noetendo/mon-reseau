@@ -31,7 +31,7 @@ p
 body
 {
 
-    background-color: rgba(255, 0, 0, 0.5); /* Fond rouge à moitié transparent */
+    background-color: rgba(192,192,192,0.5); /* Fond gris à moitié transparent */
 }
 a /* Liens par défaut (non survolés) */
 {
@@ -40,7 +40,7 @@ a /* Liens par défaut (non survolés) */
    font-style: italic;
 }
 
-a:hover /* Apparence au survol des liens */
+a:hover /* Apparence survolé des liens */
 {
    text-decoration: underline;
    color: green;
