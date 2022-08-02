@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Notre première instruction : echo</title>
+        <title>test php </title>
         <meta charset="utf-8" />
     </head>
     <body>
